@@ -7,3 +7,4 @@
 ### 4-d photo batch(batch size, channel, width, height)
 ### 5-d video batch(batch size, time, channel, width, height)
   
+![image](https://github.com/user-attachments/assets/2cd12cea-b7af-4911-8be8-d7db55bc190c)
